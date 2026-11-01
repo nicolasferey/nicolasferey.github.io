@@ -8,66 +8,107 @@ hide:
 
 # Nicolas Férey
 
-<p class="subtitle">Maître de conférences en informatique · Université Paris-Saclay</p>
+<p class="subtitle">Maître de conférences en informatique (CNU 27) · Université Paris-Saclay</p>
 
-[:fontawesome-brands-orcid: ORCID](https://orcid.org/0000-0002-7713-001X){ .md-button }
-[:material-file-document-multiple: HAL](https://cv.hal.science/nicolas-ferey){ .md-button }
-[:fontawesome-solid-graduation-cap: Google Scholar](https://scholar.google.com/citations?user=lXethhQAAAAJ){ .md-button }
-[:fontawesome-brands-github: GitHub](https://github.com/nicolasferey){ .md-button }
-[:fontawesome-brands-linkedin: LinkedIn](https://www.linkedin.com/in/nicolas-ferey-67473118/){ .md-button }
+<div class="icon-links" markdown>
+<a class="js-mail" href="#" data-u="yeref.salocin" data-d="rf.yalcas-sirap-etisrevinu" title="Courriel">:fontawesome-solid-envelope:</a>
+[:fontawesome-brands-orcid:](https://orcid.org/0000-0002-7713-001X "ORCID")
+[:material-file-document-multiple:](https://cv.hal.science/nicolas-ferey "HAL")
+[:fontawesome-solid-graduation-cap:](https://scholar.google.com/citations?user=lXethhQAAAAJ "Google Scholar")
+[:fontawesome-brands-github:](https://github.com/nicolasferey "GitHub")
+[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/nicolas-ferey-67473118/ "LinkedIn")
+</div>
 
 </div>
 
 ## Poste et rattachement
 
-- **Maître de conférences** depuis novembre 2009
-- **Recherche** : [LISN](https://www.lisn.upsaclay.fr/) — Laboratoire Interdisciplinaire des Sciences du Numérique, département Interaction Humain-Machine, équipe VENISE
-- **Enseignement** : IUT d'Orsay, département Informatique
-- Université Paris-Saclay
+- **Maître de conférences en informatique** depuis 2009 — Université Paris-Sud, devenue Université Paris-Saclay
+- **Recherche** : [LISN](https://www.lisn.upsaclay.fr/), UMR 9015 (CNRS & Université Paris-Saclay) — département Interaction Humain-Machine, équipe VENISE (réalité virtuelle et augmentée)
+- **Enseignement** : IUT d'Orsay, département informatique (BUT Informatique)
+- **Courriel** : <a class="js-mail" href="#" data-u="yeref.salocin" data-d="rf.yalcas-sirap-etisrevinu" data-text="1">nicolas.ferey [at] universite-paris-saclay [point] fr</a>
 
 ## Présentation
 
-Je conçois des environnements virtuels immersifs et des techniques d'interaction
-multisensorielles — visuelles, haptiques et sonores — pour l'exploration scientifique,
-la création collaborative et l'apprentissage. Mes travaux vont de la dynamique
-moléculaire interactive et immersive aux expériences collaboratives co-localisées
-dans des systèmes de type CAVE.
+Mes travaux se situent à l'intersection de l'**interaction humain-machine**, de la
+**réalité virtuelle et augmentée**, de la **visualisation scientifique** et de la
+**biologie moléculaire computationnelle**. Je conçois, réalise et évalue des outils
+qui permettent aux scientifiques d'explorer, de manipuler et d'analyser des données
+complexes — graphes de données biologiques, structures et simulations moléculaires —
+par la visualisation 3D, l'interaction multisensorielle (haptique, son), les
+interfaces tangibles et les modèles sémantiques.
 
-## Thèmes
+Ces travaux paraissent aussi bien dans des revues de bioinformatique et de
+biophysique (*Protein Science*, *Nucleic Acids Research*, *Journal of Computational
+Chemistry*, *Faraday Discussions*…) que dans des revues et conférences d'interaction
+et de réalité virtuelle (*Presence*, *Virtual Reality*, *Journal on Multimodal User
+Interfaces*, IEEE ISMAR, EuroVR, INTERACT, VRST).
+
+<div class="grid cards stats" markdown>
+
+-   **18** articles de revues
+-   **14** conférences internationales
+-   **6** thèses co-encadrées
+-   **6** projets de recherche (ANR, IDEX, industriel)
+
+</div>
+
+## Parcours
+
+| Période | Poste / diplôme |
+|---------|-----------------|
+| depuis 2009 | **Maître de conférences en informatique**, Université Paris-Sud puis Paris-Saclay — IUT d'Orsay et LISN (ex-LIMSI-CNRS), équipe VENISE |
+| 2007 – 2009 | **Post-doctorat**, Laboratoire de Biochimie Théorique (UPR CNRS 9080), avec Marc Baaden, sur contrat ANR — simulation moléculaire interactive, interaction 3D et réalité virtuelle |
+| 2006 – 2007 | **ATER**, Université Paris XI |
+| 2003 – 2006 | **Doctorat en informatique (bioinformatique)**, Université Paris-Sud / LIMSI-CNRS — *Exploration immersive de données génomiques textuelles et factuelles, vers une approche par Visual Mining*, dir. Rachid Gherbi ; moniteur à l'IUT de Mesures Physiques d'Orsay |
+| 2002 – 2003 | **DEA Information, Interaction, Intelligence**, Université Paris-Sud |
+| 2000 – 2002 | **Licence et maîtrise d'informatique**, Université Paris-Sud |
+| 2000 | **DUT informatique**, IUT d'Orsay |
+
+**Responsabilités collectives** : membre élu du Conseil d'administration de
+l'Université Paris-Saclay (depuis 2024) et de sa commission des carrières des
+enseignants-chercheurs ; membre élu du Conseil de la Faculté des Sciences (depuis
+2023) ; membre du Conseil de laboratoire du LISN (depuis 2022) ; ancien membre du
+Conseil académique de la COMUE Paris-Saclay (2017–2020) et de la CCSU informatique
+(2010–2021).
+
+## Thèmes de recherche
 
 <div class="grid cards" markdown>
 
--   :material-virtual-reality:{ .lg .middle } **Systèmes immersifs**
+-   :material-graph:{ .lg .middle } **Visualisation de données relationnelles**
 
     ---
 
-    CAVE, murs d'écrans stéréoscopiques et casques : configuration, calibration
-    et portage multi-moteurs (Unity, Unreal, Godot).
+    Dessin dynamique de graphes 2D/3D massifs, recherche et navigation dans les
+    cartes de données génomiques et bibliographiques.
 
--   :material-hand-back-right:{ .lg .middle } **Haptique**
-
-    ---
-
-    Retour d'effort à 1 kHz, couplage simulation physique / interaction,
-    manipulation de systèmes complexes.
-
--   :material-molecule:{ .lg .middle } **Visualisation scientifique**
+-   :material-molecule:{ .lg .middle } **Simulation moléculaire interactive**
 
     ---
 
-    Exploration interactive de structures et de simulations moléculaires.
+    Réseaux élastiques augmentés (BioSpring), manipulation haptique,
+    docking flexible et positionnement de protéines dans les membranes.
 
--   :material-account-group:{ .lg .middle } **Collaboration co-localisée**
+-   :material-hand-back-right:{ .lg .middle } **Interaction multisensorielle et tangible**
 
     ---
 
-    Expériences partagées à plusieurs dans un même espace physique et virtuel.
+    Haptique, sélection de cibles mobiles, navigation guidée, interfaces
+    tangibles moléculaires (tracking sans marqueur, internet des objets).
+
+-   :material-semantic-web:{ .lg .middle } **Modèles sémantiques pour la RV/RA**
+
+    ---
+
+    Contexte interactif unifié, commandes multimodales et analyse de
+    l'expérience utilisateur en environnement immersif.
 
 </div>
 
 ## Actualités
 
-<!-- TODO : garder 3 à 5 actualités récentes, de la plus récente à la plus ancienne. -->
-
-- **2026** — Démonstrateur de sculpture collaborative sur bois virtuel avec retour haptique.
-- **2026** — NewEVE : description unifiée des configurations CAVE, portée sur Unity, Unreal et Godot.
+- **2026** — Comité d'organisation de la Journée de l'Association Française de Réalité Étendue (JFXR 2026).
+- **2025** — *BioSpring: an elastic network framework for interactive exploration of macromolecular mechanics*, Protein Science.
+- **2025** — *An overview study on the use of Semantics in Immersive Environments*, Journal on Multimodal User Interfaces.
+- **2024** — *UnityMol-Lite*, collaboration multiplateforme en XR pour la modélisation moléculaire, EuroXR (Athènes).

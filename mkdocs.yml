@@ -40,15 +40,14 @@ nav:
   - Projets: projets.md
   - Publications: publications.md
   - Enseignement: enseignement.md
-  - Contact: contact.md
 
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/mail.js
 
 extra:
   social:
-    - icon: fontawesome/solid/envelope
-      link: mailto:nicolas.ferey@universite-paris-saclay.fr
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0002-7713-001X
     - icon: material/file-document-multiple

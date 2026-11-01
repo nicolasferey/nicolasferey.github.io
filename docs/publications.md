@@ -1,23 +1,123 @@
 # Publications
 
-!!! tip "Liste complète"
-    La liste complète et à jour est disponible sur
-    [HAL](https://cv.hal.science/nicolas-ferey) et
-    [Google Scholar](https://scholar.google.com/citations?user=lXethhQAAAAJ).
+Liste complète (59 références), de la plus récente à la plus ancienne. Les PDF sont les versions déposées en accès ouvert (HAL ou dépôt de l'éditeur).
 
-<!--
-TODO : ajouter les publications sélectionnées. Format conseillé :
-- **Titre de l'article.** A. Auteur, **N. Férey**, B. Auteur. *Revue ou conférence*, année. [PDF](...) · [DOI](...)
--->
+!!! tip "Voir aussi"
+    [HAL](https://cv.hal.science/nicolas-ferey) · [Google Scholar](https://scholar.google.com/citations?user=lXethhQAAAAJ)
 
-## Revues
 
-- _À compléter_
+## 2026
 
-## Conférences internationales
+- <span class="pubtype">Prépublication</span> Nicolas Saint-Léger, **Nicolas Férey**, Joe Raad, Patrick Bourdot. **Measuring the Degree of Multimodality: Toward a Foundation for Adaptive Extended Reality**. [:material-file-pdf-box: PDF](https://hal.science/hal-05779425/document) · [HAL](https://hal.science/hal-05779425)
 
-- _À compléter_
+## 2025
 
-## Thèse
+- <span class="pubtype">Revue</span> Nicolas Saint-Léger, **Nicolas Férey**, Joe Raad, Patrick Bourdot. **An overview study on the use of Semantics in Immersive Environments**. *Journal on Multimodal User Interfaces*. [:material-file-pdf-box: PDF](publications/2025-an-overview-study-on-the-use-of-semantics-in-immer.pdf) · [DOI](https://doi.org/10.1007/s12193-025-00465-0) · [HAL](https://hal.science/hal-05383687)
+- <span class="pubtype">Revue</span> Benoist Laurent, André Lanrezac, Hubert Santuz, **Nicolas Férey**, Olivier Delalande, Marc Baaden. **BioSpring: An elastic network framework for interactive exploration of macromolecular mechanics**. *Protein Science*. [:material-file-pdf-box: PDF](https://hal.science/hal-05039981/document) · [DOI](https://doi.org/10.1002/pro.70130) · [HAL](https://hal.science/hal-05039981)
 
-- _À compléter_
+## 2024
+
+- <span class="pubtype">Chapitre</span> André Lanrezac, **Nicolas Férey**, Marc Baaden. **Interactive Molecular Dynamics**. *Comprehensive Computational Chemistry*. [:material-file-pdf-box: PDF](https://hal.science/hal-04307111/document) · [DOI](https://doi.org/10.1016/B978-0-12-821978-2.00115-X) · [HAL](https://hal.science/hal-04307111)
+- <span class="pubtype">Conférence</span> Iza Marfisi-Schottman, Hubert Santuz, Camille Bisson, Marc Baaden, **Nicolas Férey**, Antoine Taly, Olivier Delalande. **Escape from PharmaZ: a Game to Boost Pharmacophore Learning through Immersive Augmented Reality**. *Games and Learning Alliance 13th International Conference, GALA 2024*. [:material-file-pdf-box: PDF](publications/2024-escape-from-pharmaz-a-game-to-boost-pharmacophore.pdf) · [DOI](https://doi.org/10.1007/978-3-031-78269-5_30) · [HAL](https://hal.science/hal-04794554)
+- <span class="pubtype">Conférence</span> Mariano Spivak, Bastien Vincke, Hubert Santuz, Jérôme Hénin, Antoine Taly, Marc Baaden, **Nicolas Férey**. **UnityMol-Lite: Cross-platform Collaboration and Interactive Methods for Molecular Modeling in XR**. *EuroXR 2024 - 21st International Conference on Virtual Reality and Mixed Reality*. [:material-file-pdf-box: PDF](publications/2024-unitymol-lite-cross-platform-collaboration-and-int.pdf) · [HAL](https://hal.science/hal-05163459)
+- <span class="pubtype">Poster</span> Nicolas Saint-Léger, **Nicolas Férey**, Joe Raad, Patrick Bourdot. **Sémantisation du contenu et du contexte pour la gestion de l'expérience utilisateur et de la multimodalité en environnement de Réalité Virtuelle et Augmentée**. *Journées Françaises de la Réalité Étendue (jf·XR 2024)*. [:material-file-pdf-box: PDF](https://hal.science/hal-05779106/document) · [HAL](https://hal.science/hal-05779106)
+
+## 2022
+
+- <span class="pubtype">Conférence</span> **Nicolas Férey**, Bastien Vincke, Mohamed Anis Ghaoui. **Interface moléculaire tangible, modulaire, articulée, sans fil et sans marqueur, basée sur l’internet des objets**. *IHM'22 - 33ème conférence internationale francophone sur l’Interaction Humain-Machine*. [:material-file-pdf-box: PDF](publications/2022-interface-moleculaire-tangible-modulaire-articulee.pdf) · [HAL](https://hal.science/hal-03835651)
+- <span class="pubtype">Revue</span> Davide Spalvieri, Anne-Marine Mauviel, Matthieu Lambert, **Nicolas Férey**, Sophie Sacquin-Mora, Matthieu Chavent, Marc Baaden. **Design – a new way to look at old molecules**. *Journal of Integrative Bioinformatics*. [:material-file-pdf-box: PDF](https://hal.science/hal-03793308/document) · [DOI](https://doi.org/10.1515/jib-2022-0020) · [HAL](https://hal.science/hal-03793308)
+- <span class="pubtype">Revue</span> André Lanrezac, Benoist Laurent, Hubert Santuz, **Nicolas Férey**, Marc Baaden. **Fast and Interactive Positioning of Proteins within Membranes**. *Algorithms*. [:material-file-pdf-box: PDF](publications/2022-fast-and-interactive-positioning-of-proteins-withi.pdf) · [DOI](https://doi.org/10.3390/a15110415) · [HAL](https://hal.science/hal-03873725)
+
+## 2021
+
+- <span class="pubtype">Conférence</span> Mengchen Wang, **Nicolas Férey**, Frédéric Magoulès, Patrick Bourdot. **Interactive simulation for easy decision-making in fluid dynamics**. *42nd Annual Conference of the European Association for Computer Graphics, (Eurographics 2021)*. [:material-file-pdf-box: PDF](https://hal.science/hal-03328156/document) · [DOI](https://doi.org/10.2312/egs.20211022) · [HAL](https://hal.science/hal-03328156)
+- <span class="pubtype">Poster</span> **Nicolas Férey**, Bastien Vincke, Mohamed Anis Ghaoui. **Interface tangible modulaire, articulée et sans marqueur dédiée à la pédagogie et à la recherche en biologie moléculaire**. *Congrès du Groupe Graphisme et Modélisation Moléculaire*. [:material-file-pdf-box: PDF](publications/2021-interface-tangible-modulaire-articulee-et-sans-mar.pdf) · [HAL](https://hal.science/hal-04582042)
+- <span class="pubtype">Revue</span> André Lanrezac, **Nicolas Férey**, Marc Baaden. **Wielding the power of interactive molecular simulations**. *Wiley Interdisciplinary Reviews: Computational Molecular Science*. [:material-file-pdf-box: PDF](https://hal.science/hal-03447181/document) · [DOI](https://doi.org/10.1002/WCMS.1594) · [HAL](https://hal.science/hal-03447181)
+
+## 2020
+
+- <span class="pubtype">Conférence</span> Eugenie Brasier, Olivier Chapuis, **Nicolas Férey**, Jeanne Vezien, Caroline Appert. **ARPads: Mid-air Indirect Input for Augmented Reality**. *ISMAR 2020 - IEEE International Symposium on Mixed and Augmented Reality*. [:material-file-pdf-box: PDF](publications/2020-arpads-mid-air-indirect-input-for-augmented-realit.pdf) · [DOI](https://doi.org/10.1109/ISMAR50242.2020.00060) · [HAL](https://hal.science/hal-02915795)
+- <span class="pubtype">Revue</span> Bastien Vincke, Mohamed Anis Ghaoui, **Nicolas Férey**, Xavier Martinez. **Physical, Modular and Articulated Interface for Interactive Molecular Manipulation**. *Sensors*. [:material-file-pdf-box: PDF](publications/2020-physical-modular-and-articulated-interface-for-int.pdf) · [DOI](https://doi.org/10.3390/s20185415) · [HAL](https://hal.science/hal-03030681)
+
+## 2019
+
+- <span class="pubtype">Conférence</span> Mengchen Wang, **Nicolas Férey**, Patrick Bourdot, Frédéric Magoulès. **Interactive 3D Fluid Simulation: Steering the Simulation in Progress Using Lattice Boltzmann Method**. *2019 18th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES)*. [:material-file-pdf-box: PDF](publications/2019-interactive-3d-fluid-simulation-steering-the-simul.pdf) · [DOI](https://doi.org/10.1109/DCABES48411.2019.00025) · [HAL](https://hal.science/hal-02399846)
+- <span class="pubtype">Conférence</span> Bastien Vincke, Mohamed Anis Ghaoui, **Nicolas Férey**, Xavier Martinez, Loïc Brochot. **Modular and Flexible Tangible Molecular Interface for Interactive Molecular Simulation Based on Internet of Things Approach**. *International Conference on Virtual Reality and Augmented Reality. EuroVR 2019*. [:material-file-pdf-box: PDF](publications/2019-modular-and-flexible-tangible-molecular-interface.pdf) · [DOI](https://doi.org/10.1007/978-3-030-31908-3_2) · [HAL](https://hal.science/hal-04054589)
+- <span class="pubtype">Conférence</span> Mengchen Wang, **Nicolas Férey**, Patrick Bourdot, Frédéric Magoulès. **Using Asynchronous Simulation Approach for Interactive Simulation**. *2019 18th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES)*. [:material-file-pdf-box: PDF](publications/2019-using-asynchronous-simulation-approach-for-interac.pdf) · [DOI](https://doi.org/10.1109/DCABES48411.2019.00028) · [HAL](https://hal.science/hal-02399881)
+
+## 2018
+
+- <span class="pubtype">Conférence</span> Julien Nelson, Xavier Malon, **Nicolas Férey**. **Analyzing Interaction Dynamics at the Fuzzy Front-End of Innovation Projects: A Tool for Prospective Ergonomics**. *20th Congress of the International Ergonomics Association (IEA 2018)*. [DOI](https://doi.org/10.1007/978-3-319-96071-5_102) · [HAL](https://hal.science/hal-04425055) · *PDF non disponible*
+- <span class="pubtype">Revue</span> Olivier Delalande, Anne-Elisabeth Molza, Raphael dos Santos Morais, Angélique Chéron, Emeline Pollet, Céline Raguénès-Nicol, Christophe Tascon, Emmanuel Giudice, Marine Guilbaud, Aurélie Nicolas, Arnaud Bondon, France Leturcq, **Nicolas Férey**, Marc Baaden, Javier Perez, Pierre Roblin, France Pietri-Rouxel, Jean-François Hubert, Mirjam Czjzek, Elisabeth Le Rumeur. **Dystrophin's central domain forms a complex filament that becomes disorganized by in-frame deletions**. *Journal of Biological Chemistry*. [:material-file-pdf-box: PDF](https://hal.science/hal-01795395/document) · [DOI](https://doi.org/10.1074/jbc.M117.809798) · [HAL](https://hal.science/hal-01795395)
+- <span class="pubtype">Revue</span> Mikael Trellet, **Nicolas Férey**, Jakub Flotyński, Marc Baaden, Patrick Bourdot. **Semantics for an Integrative and Immersive Pipeline Combining Visualization and Analysis of Molecular Data**. *Journal of Integrative Bioinformatics*. [:material-file-pdf-box: PDF](publications/2018-semantics-for-an-integrative-and-immersive-pipelin.pdf) · [DOI](https://doi.org/10.1515/jib-2018-0004) · [HAL](https://hal.science/hal-01935586)
+- <span class="pubtype">Revue</span> Marc Baaden, Olivier Delalande, **Nicolas Férey**, Samuela Pasquali, Jérôme Waldispühl, Antoine Taly. **Ten simple rules to create a serious game, illustrated with examples from structural biology**. *PLoS Computational Biology*. [:material-file-pdf-box: PDF](publications/2018-ten-simple-rules-to-create-a-serious-game-illustra.pdf) · [DOI](https://doi.org/10.1371/journal.pcbi.1005955) · [HAL](https://hal.science/hal-01744190)
+
+## 2017
+
+- <span class="pubtype">Revue</span> Xavier Martinez, **Nicolas Férey**, Jean-Marc Vézien, Patrick Bourdot. **3D reconstruction with a markerless tracking method of flexible and modular molecular physical models: towards tangible interfaces**. *Journal of Virtual Reality and Broadcasting*. [:material-file-pdf-box: PDF](publications/2017-3d-reconstruction-with-a-markerless-tracking-metho.pdf) · [DOI](https://doi.org/10.20385/1860-2037/14.2017.2) · [HAL](https://hal.science/hal-02351533)
+
+## 2016
+
+- <span class="pubtype">Conférence</span> Mikael Trellet, **Nicolas Férey**, Marc Baaden, Patrick Bourdot. **Interactive Visual Analytics of Molecular Data in Immersive Environments via a Semantic Definition of the Content and the Context**. *IEEE VR 2016/VR 2016 Workshop on Immersive Analytics*. [:material-file-pdf-box: PDF](publications/2016-interactive-visual-analytics-of-molecular-data-in.pdf) · [DOI](https://doi.org/10.1109/IMMERSIVE.2016.7932383) · [HAL](https://hal.science/hal-01497990)
+- <span class="pubtype">Conférence</span> Xavier Martinez, **Nicolas Férey**, Jean-Marc Vézien, Patrick Bourdot. **Towards an AR/VR molecular tangible interface based on a lightweight RGB markerless tracking of a modular physical model**. *EuroVR 2016 — Best Paper Award*. *PDF non disponible*
+
+## 2015
+
+- <span class="pubtype">Conférence</span> Alexandre Kouyoumdjian, **Nicolas Férey**, Patrick Bourdot, Stéphane Huot. **Characterizing the Influence of Motion Parameters on Performance when Acquiring Moving Targets**. *15th Human-Computer Interaction (INTERACT)*. [:material-file-pdf-box: PDF](publications/2015-characterizing-the-influence-of-motion-parameters.pdf) · [DOI](https://doi.org/10.1007/978-3-319-22723-8_12) · [HAL](https://hal.science/hal-01207511)
+- <span class="pubtype">Conférence</span> M. Trellet, **N. Férey**, Marc Baaden, P. Bourdot. **Content and task based navigation for structural biology in 3D environments**. *Virtual and Augmented Reality for Molecular Science (VARMS@IEEEVR), 2015 IEEE 1st International Workshop on*. [:material-file-pdf-box: PDF](publications/2015-content-and-task-based-navigation-for-structural-b.pdf) · [DOI](https://doi.org/10.1109/VARMS.2015.7151726) · [HAL](https://hal.science/hal-01498020)
+- <span class="pubtype">Conférence</span> Cédric Fleury, **Nicolas Férey**, Jean-Marc Vézien, Patrick Bourdot. **Remote Collaboration across Heterogeneous Large Interactive Spaces**. *IEEE VR International Workshop on 3D Collaborative Virtual Environments (3DCVE 2015)*. [:material-file-pdf-box: PDF](publications/2015-remote-collaboration-across-heterogeneous-large-in.pdf) · [DOI](https://doi.org/10.1109/3DCVE.2015.7153591) · [HAL](https://hal.science/hal-01242306)
+- <span class="pubtype">Workshop</span> Xavier Martinez, **Nicolas Férey**, Jean-Marc Vézien, Patrick Bourdot. **1st IEEE Workshop on Virtual and Augmented Reality for Molecular Science (VARMS)**. *IEEE VR 2015*. *PDF non disponible*
+- <span class="pubtype">Workshop</span> Alexandre Kouyoumdjian, **Nicolas Férey**, Patrick Bourdot. **From molecular dynamics in virtual reality environments to fundamental questions about human-computer interaction**. *VARMS@IEEE VR 2015*. [:material-file-pdf-box: PDF](publications/2015-from-molecular-dynamics-in-virtual-reality-environ.pdf)
+
+## 2014
+
+- <span class="pubtype">Conférence</span> Pierre Martin, Anthony Tseu, **Nicolas Férey**, David Touraine, Patrick Bourdot. **A hardware and software architecture to deal with multimodal and collaborative interactions in multiuser virtual reality environments**. *SPIE, The Engineering Reality of Virtual Reality*. [:material-file-pdf-box: PDF](publications/2014-a-hardware-and-software-architecture-to-deal-with.pdf)
+- <span class="pubtype">Conférence</span> M. Trellet, **Nicolas Férey**, M. Baaden, P. Bourdot. **Content-guided Navigation in Multimeric Molecular Complexes**. *BIOIMAGING 2014 - Proceedings of the International Conference on Bioimaging, ESEO, Angers, Loire Valley, France, 3-6 March, 2014*. [:material-file-pdf-box: PDF](publications/2014-content-guided-navigation-in-multimeric-molecular.pdf) · [DOI](https://doi.org/10.5220/0004914300760081) · [HAL](https://hal.science/hal-01498053)
+- <span class="pubtype">Rapport</span> Marc Baaden, Matthieu Dreher, **Nicolas Férey**, Sébastien Limet, Jessica Prevoteau-Jonquet, Bruno Raffin, Sophie Robert, Mikael Trellet. **Vitamins : Visual and In Situ Analytics for Molecular Interactive Simulation**. [:material-file-pdf-box: PDF](https://hal.science/hal-01313096/document) · [HAL](https://hal.science/hal-01313096)
+- <span class="pubtype">Revue</span> Matthieu Dreher, Jessica Prevoteau-Jonquet, Mikael Trellet, Marc Piuzzi, Marc Baaden, Bruno Raffin, **Nicolas Férey**, Sophie Robert, Sébastien Limet. **ExaViz: a Flexible Framework to Analyse, Steer and Interact with Molecular Dynamics Simulations**. *Faraday Discussions*. [:material-file-pdf-box: PDF](publications/2014-exaviz-a-flexible-framework-to-analyse-steer-and-i.pdf) · [DOI](https://doi.org/10.1039/C3FD00142C) · [HAL](https://hal.science/hal-00942627)
+- <span class="pubtype">Revue</span> Anne-Elisabeth Molza, **Nicolas Férey**, Mirjam Czjzek, Elisabeth Le Rumeur, Jean-François Hubert, Alex Tek, B. Laurent, Marc Baaden, Olivier Delalande. **Innovative interactive flexible docking method for multi-scale reconstruction elucidates dystrophin molecular assembly**. *Faraday Discussions*. [:material-file-pdf-box: PDF](https://hal.science/hal-01018071/document) · [DOI](https://doi.org/10.1039/C3FD00134B) · [HAL](https://hal.science/hal-01018071)
+- <span class="pubtype">Revue</span> A. Tek, Marc Baaden, **N. Férey**, P. Bourdot. **MANHaptic: A Haptic Adaptive Method for Precise Manipulation, Assembly and Navigation**. *International Journal on Human Machine Interaction*. [:material-file-pdf-box: PDF](publications/2014-manhaptic-a-haptic-adaptive-method-for-precise-man.pdf) · [HAL](https://hal.science/hal-01498081)
+- <span class="pubtype">Revue</span> Weiya Chen, Céline Clavel, **Nicolas Férey**, Patrick Bourdot. **Perceptual Conflicts in a Multi-Stereoscopic Immersive Virtual Environment: Case Study on Face-to-Face Interaction through an Avatar**. *Presence: Teleoperators and Virtual Environments*. [:material-file-pdf-box: PDF](publications/2014-perceptual-conflicts-in-a-multi-stereoscopic-immer.pdf) · [DOI](https://doi.org/10.1162/PRES_a_00209) · [HAL](https://hal.science/hal-01845441)
+
+## 2013
+
+- <span class="pubtype">Conférence</span> Weiya Chen, Anthony Plancoulaine, **Nicolas Férey**, David Touraine, Julien Nelson, Patrick Bourdot. **6DoF navigation in virtual worlds: comparison of joystick-based and head-controlled paradigms**. *ACM VRST 2013*. [:material-file-pdf-box: PDF](publications/2013-6dof-navigation-in-virtual-worlds-comparison-of-jo.pdf)
+- <span class="pubtype">Conférence</span> Matthieu Dreher, Marc Piuzzi, Turki Ahmed, Chavent Matthieu, Marc Baaden, **Nicolas Férey**, Sébastien Limet, Bruno Raffin, Sophie Robert. **Interactive Molecular Dynamics: Scaling up to Large Systems**. *International Conference on Computational Science, ICCS 2013*. [:material-file-pdf-box: PDF](publications/2013-interactive-molecular-dynamics-scaling-up-to-large.pdf) · [DOI](https://doi.org/10.1016/j.procs.2013.05.165) · [HAL](https://hal.science/hal-00809024)
+- <span class="pubtype">Conférence</span> M. Trellet, **N. Férey**, M. Baaden, P. Bourdot. **Navigation guidée par le contenu pour l'exploration moléculaire**. *Journées de l’Association Française de Réalité Virtuelle (AFRV)*. [:material-file-pdf-box: PDF](https://hal.science/hal-01498083/document) · [HAL](https://hal.science/hal-01498083)
+- <span class="pubtype">Conférence</span> Malik Qasim, Guillaume Bouyer, **Nicolas Férey**. **Using Conceptual Graphs to embed expert knowledge in VR Interactions: Application to Structural Biology**. *5th Joint Virtual Reality Conference – JVRC 2013*. [:material-file-pdf-box: PDF](publications/2013-using-conceptual-graphs-to-embed-expert-knowledge.pdf) · [HAL](https://hal.science/hal-01753890)
+- <span class="pubtype">Poster</span> Aurélien-Edouard Molza, Olivier Delalande, Emmanuel Giudice, **Nicolas Férey**, Marc Baaden, Mirjam Czjzek, Elisabeth Le Rumeur. **Augmented Elastic Network Models combined with SAXS data**. *GGMM 2013*. *PDF non disponible*
+
+## 2012
+
+- <span class="pubtype">Chapitre</span> Alex Tek, Benoist Laurent, Marc Piuzzi, Zhihan Lu, Matthieu Chavent, Marc Baaden, Olivier Delalande, Christine Martin, Lorenzo Piccinali, Brian Katz, Patrick Bourdot, Ludovic Autin, **Nicolas Férey**. **Advances in Human-Protein Interaction - Interactive and Immersive Molecular Simulations**. *Biochemistry, Genetics and Molecular Biology " "Protein-Protein Interactions - Computational and Experimental Tools"*. [:material-file-pdf-box: PDF](publications/2012-advances-in-human-protein-interaction-interactive.pdf) · [DOI](https://doi.org/10.5772/36568) · [HAL](https://hal.science/hal-00760181)
+- <span class="pubtype">Conférence</span> Pierre Martin, **Nicolas Férey**, Céline Clavel, Patrick Bourdot. **A haptic paradigm to learn how to drive a non-motorised vehicle manipulated through an articulated mechanism**. *Joint Virtual Reality Conference (JVRC), 81–84*. [:material-file-pdf-box: PDF](publications/2012-a-haptic-paradigm-to-learn-how-to-drive-a-non-moto.pdf)
+- <span class="pubtype">Conférence</span> **Nicolas Férey**, Olivier Delalande, Marc Baaden. **BioSpring: an interactive and multi-resolution software for flexible docking and for mechanical exploration of large biomolecular assemblies**. *JOBIM 2012 - Journées Ouvertes en Biologie, Informatique et Mathématiques*. [:material-file-pdf-box: PDF](publications/2012-biospring-an-interactive-and-multi-resolution-soft.pdf) · [HAL](https://hal.science/hal-00761683)
+- <span class="pubtype">Conférence</span> Pierre Martin, **Nicolas Férey**, Céline Clavel, Françoise Darses, Patrick Bourdot. **Sensorimotor feedback for interactive realism: evaluation of a haptic driving paradigm for a forklift simulator**. *International Conference EuroHaptics*. [:material-file-pdf-box: PDF](publications/2012-sensorimotor-feedback-for-interactive-realism-eval.pdf) · [HAL](https://hal.science/hal-01845450)
+
+## 2010
+
+- <span class="pubtype">Poster</span> Alex Tek, Benoist Laurent, **Nicolas Férey**, Marc Baaden. **A Multimodal VR Framework for Interactive Molecular Simulations**. *EuroVR-EVE 2010*. [:material-file-pdf-box: PDF](publications/2010-a-multimodal-vr-framework-for-interactive-molecula.pdf) · [HAL](https://hal.science/hal-03977463)
+- <span class="pubtype">Revue</span> Adrien Saladin, Christopher Amourda, Pierre Poulain, **Nicolas Férey**, Marc Baaden, Martin Zacharias, Olivier Delalande, Chantal Prévost. **Modeling the early stage of DNA sequence recognition within RecA nucleoprotein filaments**. *Nucleic Acids Research*. [:material-file-pdf-box: PDF](publications/2010-modeling-the-early-stage-of-dna-sequence-recogniti.pdf) · [DOI](https://doi.org/10.1093/nar/gkq459) · [HAL](https://hal.science/hal-00533099)
+- <span class="pubtype">Revue</span> Olivier Delalande, **Nicolas Férey**, Benoist Laurent, Marc Gueroult, Brigitte Hartmann, Marc Baaden. **Multi-resolution approach for interactively locating functionally linked ion binding sites by steering small molecules into electrostatic potential maps using a haptic device**. *Pacific Symposium on Biocomputing*. [:material-file-pdf-box: PDF](publications/2010-multi-resolution-approach-for-interactively-locati.pdf) · [DOI](https://doi.org/10.1142/9789814295291_0023) · [HAL](https://hal.science/hal-00661430)
+
+## 2009
+
+- <span class="pubtype">Revue</span> Olivier Delalande, **Nicolas Férey**, Gilles Grasseau, Marc Baaden. **Complex molecular assemblies at hand via interactive simulations**. *Journal of Computational Chemistry*. [:material-file-pdf-box: PDF](publications/2009-complex-molecular-assemblies-at-hand-via-interacti.pdf) · [DOI](https://doi.org/10.1002/jcc.21235) · [HAL](https://hal.science/inserm-00713313)
+- <span class="pubtype">Revue</span> **Nicolas Férey**, Guillaume Bouyer, Christine Martin, Abdelhamid Drif, Patrick Bourdot, Mehdi Ammi, Julien Nelson, Jean-Marie Burkhardt, Ludovic Autin. **Docking de protéines en réalité virtuelle. Une approche hybride et multimodale**. *Revue des Sciences et Technologies de l'Information - Série TSI : Technique et Science Informatiques*. [:material-file-pdf-box: PDF](publications/2009-docking-de-proteines-en-realite-virtuelle-une-appr.pdf) · [DOI](https://doi.org/10.3166/tsi.28.983-1015) · [HAL](https://hal.science/hal-01753902)
+- <span class="pubtype">Revue</span> **Nicolas Férey**, Julien Nelson, Christine Martin, Lorenzo Picinali, Guillaume Bouyer, Alex Tek, Patrick Bourdot, Jean Marie Burkhardt, Brian F,g Katz, Mehdi Ammi, Catherine Etchebest, Ludovic Autin. **Multisensory VR interaction for protein-docking in the CoRSAIRe project**. *Virtual Reality*. [:material-file-pdf-box: PDF](publications/2009-multisensory-vr-interaction-for-protein-docking-in.pdf) · [DOI](https://doi.org/10.1007/s10055-009-0136-z) · [HAL](https://hal.science/hal-01753897)
+
+## 2008
+
+- <span class="pubtype">Conférence</span> **Nicolas Férey**, Olivier Delalande, Gilles Grasseau, Marc Baaden. **A VR framework for interacting with molecular simulations**. *the 2008 ACM symposium*. [:material-file-pdf-box: PDF](https://hal.science/hal-03904892/document) · [DOI](https://doi.org/10.1145/1450579.1450598) · [HAL](https://hal.science/hal-03904892)
+- <span class="pubtype">Conférence</span> **Nicolas Férey**, Olivier Delalande, Gilles Grasseau, Marc Baaden. **From Interactive to Immersive Molecular Dynamics**. *Workshop in Virtual Reality Interactions and Physical Simulation "VRIPHYS" (2008)*. [:material-file-pdf-box: PDF](publications/2008-from-interactive-to-immersive-molecular-dynamics.pdf) · [DOI](https://doi.org/10.2312/PE/vriphys/vriphys08/089-096) · [HAL](https://hal.science/hal-03904907)
+- <span class="pubtype">Conférence</span> **Nicolas Férey**, Guillaume Bouyer, Christine Martin, Patrick Bourdot, Julien Nelson, Jean-Marie Burkhardt. **User Needs Analysis to Design a 3D Multimodal Protein-Docking Interface**. *IEEE Symposium on 3D User Interfaces 2008*. [:material-file-pdf-box: PDF](publications/2008-user-needs-analysis-to-design-a-3d-multimodal-prot.pdf) · [DOI](https://doi.org/10.1109/3DUI.2008.4476602) · [HAL](https://hal.science/hal-01197539)
+
+## 2007
+
+- <span class="pubtype">Conférence</span> **Nicolas Férey**, Nioche Claire Toffano, Taillez Oriane Matte, Rachid Gherbi, W. Turner. **REVIVOS: REalité VIrtuelle pour la construction de VOcabulaires Spécialisés**. *18es Journées Francophones d'Ingénierie des Connaissances*. [:material-file-pdf-box: PDF](https://hal.science/hal-00509922/document) · [HAL](https://hal.science/hal-00509922)
+
+## 2005
+
+- <span class="pubtype">Conférence</span> P. E. Gros, Joan Hérisson, **N. Férey**, R. Gherbi. **Combining Applications and Databases Integration Approaches in a Common Distributed Genomic Platform**. *19th International Conference on Advanced Information Networking and Applications (AINA'05) Volume 1 (AINA papers)*. [DOI](https://doi.org/10.1109/AINA.2005.136) · [HAL](https://hal.science/hal-04351647) · *PDF non disponible*
+- <span class="pubtype">Conférence</span> Joan Hérisson, P. Gros, **N. Férey**, O. Magneau, R. Gherbi. **DNA in Virtuo visualization and exploration of 3D genomic structures**. *AFRIGRAPH04: 3rd International Conference on Computer Graphics, Virtual Reality, Visualization and Interaction in Africa*. [:material-file-pdf-box: PDF](publications/2005-dna-in-virtuo-visualization-and-exploration-of-3d.pdf) · [DOI](https://doi.org/10.1145/1029949.1029955) · [HAL](https://hal.science/hal-04351628)
+- <span class="pubtype">Conférence</span> **Nicolas Férey**, Pierre-Emmanuel Gros, Joan Hérisson, Rachid Gherbi. **Visual Data Mining of Genomic Databases by Immersive Graph-Based Exploration**. *GRAPHITE 2005, 3rd International Conference On Computer Graphics and Interactives Techniques In Autralia and Southeast Asia*. [:material-file-pdf-box: PDF](publications/2005-visual-data-mining-of-genomic-databases-by-immersi.pdf) · [DOI](https://doi.org/10.1145/1101389.1101418) · [HAL](https://hal.science/hal-00145610)
