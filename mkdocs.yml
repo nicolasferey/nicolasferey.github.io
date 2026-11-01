@@ -1,7 +1,7 @@
 site_name: Nicolas Férey
 site_description: Maître de conférences en informatique, LISN / IUT d'Orsay — Université Paris-Saclay
 site_author: Nicolas Férey
-# site_url: https://<à-définir>/
+site_url: https://nicolasferey.github.io/
 copyright: © 2026 Nicolas Férey
 
 theme:
