@@ -1,0 +1,75 @@
+site_name: Nicolas Férey
+site_description: Maître de conférences en informatique, LISN / IUT d'Orsay — Université Paris-Saclay
+site_author: Nicolas Férey
+# site_url: https://<à-définir>/
+copyright: © 2026 Nicolas Férey
+
+theme:
+  name: material
+  language: fr
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - content.tabs.link
+    - toc.integrate
+  icon:
+    logo: material/cube-scan
+
+nav:
+  - Accueil: index.md
+  - Recherche: recherche.md
+  - Projets: projets.md
+  - Publications: publications.md
+  - Enseignement: enseignement.md
+  - Contact: contact.md
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:nicolas.ferey@universite-paris-saclay.fr
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-7713-001X
+    - icon: material/file-document-multiple
+      link: https://cv.hal.science/nicolas-ferey
+    - icon: fontawesome/solid/graduation-cap
+      link: https://scholar.google.com/citations?user=lXethhQAAAAJ
+    - icon: fontawesome/brands/github
+      link: https://github.com/nicolasferey
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nicolas-ferey-67473118/
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
