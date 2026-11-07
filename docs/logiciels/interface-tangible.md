@@ -3,8 +3,8 @@
 **Domaine** : interaction tangible · **Projets** : [BioTIN'INT](../projets/biotinint.md), [ANR PIRATE](../projets/pirate.md)
 
 <figure markdown>
-![Reconstruction sans marqueur de la pose d'une maquette moléculaire imprimée en 3D (Martinez et al., 2017).](../images/interface-tangible.jpg)
-<figcaption>Reconstruction sans marqueur de la pose d'une maquette moléculaire imprimée en 3D (Martinez et al., 2017).</figcaption>
+![Maquette moléculaire instrumentée : atomes modulaires imprimés en 3D, assemblables par aimants, et détail de l'électronique embarquée (Vincke et al., 2020).](../images/interface-tangible.jpg)
+<figcaption>Maquette moléculaire instrumentée : atomes modulaires imprimés en 3D, assemblables par aimants, et détail de l'électronique embarquée (Vincke et al., 2020).</figcaption>
 </figure>
 
 ## Résumé
