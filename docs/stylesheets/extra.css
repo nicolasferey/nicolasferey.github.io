@@ -17,3 +17,14 @@
   width: auto;
   border-radius: 6px;
 }
+
+/* Bandeau : image du profil LinkedIn sous l'en-tête et les onglets, raccordée entre les deux */
+.md-header,
+.md-tabs {
+  background-color: #0b1a0f;
+  background-image: linear-gradient(rgba(0, 0, 0, .35), rgba(0, 0, 0, .35)), url("../images/bandeau.jpg");
+  background-size: 100vw auto;
+  background-repeat: no-repeat;
+}
+.md-header { background-position: center calc(2.4rem - 12.4vw); }
+.md-tabs { background-position: center -12.4vw; }

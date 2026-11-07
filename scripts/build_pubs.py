@@ -134,6 +134,27 @@ for p in pubs:
 
 pubs.sort(key=lambda p: (-(p["year"] or 0), p["type"], p["title"]))
 
+# Thèses co-encadrées, mises en valeur l'année de leur soutenance
+THESES = [
+    (2021, "Mengchen Wang", "20 décembre 2021", "Modèle distribué et asynchrone pour la simulation interactive en mécanique des fluides : vers une plateforme de jeu sérieux pour l'aide à la prise de décision",
+     "co-direction P. Bourdot et F. Magoulès ; co-encadrement 50 %", "tel-03609841", "2021UPASG113"),
+    (2018, "Alexandre Kouyoumdjian", "10 décembre 2018", "Sélection de cibles en mouvement : contexte, modèles, et paradigmes d'aide à la sélection",
+     "direction P. Bourdot ; co-encadrement 50 %", "tel-02163235", "2018SACLS606"),
+    (2017, "Xavier Martinez", "10 octobre 2017", "Tracking sans marqueur de modèles physiques modulaires et articulés : vers une interface tangible pour la manipulation de simulations moléculaires",
+     "direction P. Bourdot ; co-encadrement 25 %", "tel-01633497", "2017SACLS231"),
+    (2015, "Mikael Trellet", "18 décembre 2015", "Exploration et analyse immersives de données moléculaires guidées par la tâche et la modélisation sémantique des contenus",
+     "co-direction P. Bourdot et M. Baaden ; co-encadrement 50 %", "tel-01269634", "2015SACLS262"),
+    (2015, "Weiya Chen", "15 décembre 2015", "Collaboration in Multi-user Immersive Virtual Environment",
+     "direction P. Bourdot ; co-encadrement 25 %", "tel-01340364", "2015SACLS248"),
+]
+
+def thesis_block(t):
+    _, who, date, title, role, hal, tf = t
+    return [f'!!! success "Thèse soutenue · {who} · {date}"',
+            f"    **{title}**. Université Paris-Saclay ({role}). "
+            f"[:material-file-pdf-box: PDF](https://hal.science/{hal}/document) · "
+            f"[HAL](https://hal.science/{hal}) · [theses.fr](https://theses.fr/{tf})", ""]
+
 def fmt_authors(names):
     out = []
     for n in names:
@@ -142,7 +163,7 @@ def fmt_authors(names):
     return ", ".join(out)
 
 lines = ["# Publications", "",
-         f"Liste complète ({len(pubs)} références), de la plus récente à la plus ancienne. "
+         f"Liste complète ({len(pubs)} références et {len(THESES)} thèses co-encadrées), de la plus récente à la plus ancienne. "
          "Les PDF sont les versions déposées en accès ouvert (HAL ou dépôt de l'éditeur).", "",
          "!!! tip \"Voir aussi\"",
          "    [HAL](https://cv.hal.science/nicolas-ferey) · "
@@ -152,6 +173,9 @@ for p in pubs:
     if p["year"] != year:
         year = p["year"]
         lines += ["", f"## {year}", ""]
+        for t in THESES:
+            if t[0] == year:
+                lines += thesis_block(t)
     links = []
     if p["pdf"]:
         links.append(f"[:material-file-pdf-box: PDF]({p['pdf']})")

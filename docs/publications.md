@@ -1,6 +1,6 @@
 # Publications
 
-Liste complète (59 références), de la plus récente à la plus ancienne. Les PDF sont les versions déposées en accès ouvert (HAL ou dépôt de l'éditeur).
+Liste complète (59 références et 5 thèses co-encadrées), de la plus récente à la plus ancienne. Les PDF sont les versions déposées en accès ouvert (HAL ou dépôt de l'éditeur).
 
 !!! tip "Voir aussi"
     [HAL](https://cv.hal.science/nicolas-ferey) · [Google Scholar](https://scholar.google.com/citations?user=lXethhQAAAAJ)
@@ -30,6 +30,9 @@ Liste complète (59 références), de la plus récente à la plus ancienne. Les 
 
 ## 2021
 
+!!! success "Thèse soutenue · Mengchen Wang · 20 décembre 2021"
+    **Modèle distribué et asynchrone pour la simulation interactive en mécanique des fluides : vers une plateforme de jeu sérieux pour l'aide à la prise de décision**. Université Paris-Saclay (co-direction P. Bourdot et F. Magoulès ; co-encadrement 50 %). [:material-file-pdf-box: PDF](https://hal.science/tel-03609841/document) · [HAL](https://hal.science/tel-03609841) · [theses.fr](https://theses.fr/2021UPASG113)
+
 - <span class="pubtype">Conférence</span> Mengchen Wang, **Nicolas Férey**, Frédéric Magoulès, Patrick Bourdot. **Interactive simulation for easy decision-making in fluid dynamics**. *42nd Annual Conference of the European Association for Computer Graphics, (Eurographics 2021)*. [:material-file-pdf-box: PDF](https://hal.science/hal-03328156/document) · [DOI](https://doi.org/10.2312/egs.20211022) · [HAL](https://hal.science/hal-03328156)
 - <span class="pubtype">Poster</span> **Nicolas Férey**, Bastien Vincke, Mohamed Anis Ghaoui. **Interface tangible modulaire, articulée et sans marqueur dédiée à la pédagogie et à la recherche en biologie moléculaire**. *Congrès du Groupe Graphisme et Modélisation Moléculaire*. [:material-file-pdf-box: PDF](publications/2021-interface-tangible-modulaire-articulee-et-sans-mar.pdf) · [HAL](https://hal.science/hal-04582042)
 - <span class="pubtype">Revue</span> André Lanrezac, **Nicolas Férey**, Marc Baaden. **Wielding the power of interactive molecular simulations**. *Wiley Interdisciplinary Reviews: Computational Molecular Science*. [:material-file-pdf-box: PDF](https://hal.science/hal-03447181/document) · [DOI](https://doi.org/10.1002/WCMS.1594) · [HAL](https://hal.science/hal-03447181)
@@ -47,12 +50,18 @@ Liste complète (59 références), de la plus récente à la plus ancienne. Les 
 
 ## 2018
 
+!!! success "Thèse soutenue · Alexandre Kouyoumdjian · 10 décembre 2018"
+    **Sélection de cibles en mouvement : contexte, modèles, et paradigmes d'aide à la sélection**. Université Paris-Saclay (direction P. Bourdot ; co-encadrement 50 %). [:material-file-pdf-box: PDF](https://hal.science/tel-02163235/document) · [HAL](https://hal.science/tel-02163235) · [theses.fr](https://theses.fr/2018SACLS606)
+
 - <span class="pubtype">Conférence</span> Julien Nelson, Xavier Malon, **Nicolas Férey**. **Analyzing Interaction Dynamics at the Fuzzy Front-End of Innovation Projects: A Tool for Prospective Ergonomics**. *20th Congress of the International Ergonomics Association (IEA 2018)*. [DOI](https://doi.org/10.1007/978-3-319-96071-5_102) · [HAL](https://hal.science/hal-04425055) · *PDF non disponible*
 - <span class="pubtype">Revue</span> Olivier Delalande, Anne-Elisabeth Molza, Raphael dos Santos Morais, Angélique Chéron, Emeline Pollet, Céline Raguénès-Nicol, Christophe Tascon, Emmanuel Giudice, Marine Guilbaud, Aurélie Nicolas, Arnaud Bondon, France Leturcq, **Nicolas Férey**, Marc Baaden, Javier Perez, Pierre Roblin, France Pietri-Rouxel, Jean-François Hubert, Mirjam Czjzek, Elisabeth Le Rumeur. **Dystrophin's central domain forms a complex filament that becomes disorganized by in-frame deletions**. *Journal of Biological Chemistry*. [:material-file-pdf-box: PDF](https://hal.science/hal-01795395/document) · [DOI](https://doi.org/10.1074/jbc.M117.809798) · [HAL](https://hal.science/hal-01795395)
 - <span class="pubtype">Revue</span> Mikael Trellet, **Nicolas Férey**, Jakub Flotyński, Marc Baaden, Patrick Bourdot. **Semantics for an Integrative and Immersive Pipeline Combining Visualization and Analysis of Molecular Data**. *Journal of Integrative Bioinformatics*. [:material-file-pdf-box: PDF](publications/2018-semantics-for-an-integrative-and-immersive-pipelin.pdf) · [DOI](https://doi.org/10.1515/jib-2018-0004) · [HAL](https://hal.science/hal-01935586)
 - <span class="pubtype">Revue</span> Marc Baaden, Olivier Delalande, **Nicolas Férey**, Samuela Pasquali, Jérôme Waldispühl, Antoine Taly. **Ten simple rules to create a serious game, illustrated with examples from structural biology**. *PLoS Computational Biology*. [:material-file-pdf-box: PDF](publications/2018-ten-simple-rules-to-create-a-serious-game-illustra.pdf) · [DOI](https://doi.org/10.1371/journal.pcbi.1005955) · [HAL](https://hal.science/hal-01744190)
 
 ## 2017
+
+!!! success "Thèse soutenue · Xavier Martinez · 10 octobre 2017"
+    **Tracking sans marqueur de modèles physiques modulaires et articulés : vers une interface tangible pour la manipulation de simulations moléculaires**. Université Paris-Saclay (direction P. Bourdot ; co-encadrement 25 %). [:material-file-pdf-box: PDF](https://hal.science/tel-01633497/document) · [HAL](https://hal.science/tel-01633497) · [theses.fr](https://theses.fr/2017SACLS231)
 
 - <span class="pubtype">Revue</span> Xavier Martinez, **Nicolas Férey**, Jean-Marc Vézien, Patrick Bourdot. **3D reconstruction with a markerless tracking method of flexible and modular molecular physical models: towards tangible interfaces**. *Journal of Virtual Reality and Broadcasting*. [:material-file-pdf-box: PDF](publications/2017-3d-reconstruction-with-a-markerless-tracking-metho.pdf) · [DOI](https://doi.org/10.20385/1860-2037/14.2017.2) · [HAL](https://hal.science/hal-02351533)
 
@@ -62,6 +71,12 @@ Liste complète (59 références), de la plus récente à la plus ancienne. Les 
 - <span class="pubtype">Conférence</span> Xavier Martinez, **Nicolas Férey**, Jean-Marc Vézien, Patrick Bourdot. **Towards an AR/VR molecular tangible interface based on a lightweight RGB markerless tracking of a modular physical model**. *EuroVR 2016 — Best Paper Award*. *PDF non disponible*
 
 ## 2015
+
+!!! success "Thèse soutenue · Mikael Trellet · 18 décembre 2015"
+    **Exploration et analyse immersives de données moléculaires guidées par la tâche et la modélisation sémantique des contenus**. Université Paris-Saclay (co-direction P. Bourdot et M. Baaden ; co-encadrement 50 %). [:material-file-pdf-box: PDF](https://hal.science/tel-01269634/document) · [HAL](https://hal.science/tel-01269634) · [theses.fr](https://theses.fr/2015SACLS262)
+
+!!! success "Thèse soutenue · Weiya Chen · 15 décembre 2015"
+    **Collaboration in Multi-user Immersive Virtual Environment**. Université Paris-Saclay (direction P. Bourdot ; co-encadrement 25 %). [:material-file-pdf-box: PDF](https://hal.science/tel-01340364/document) · [HAL](https://hal.science/tel-01340364) · [theses.fr](https://theses.fr/2015SACLS248)
 
 - <span class="pubtype">Conférence</span> Alexandre Kouyoumdjian, **Nicolas Férey**, Patrick Bourdot, Stéphane Huot. **Characterizing the Influence of Motion Parameters on Performance when Acquiring Moving Targets**. *15th Human-Computer Interaction (INTERACT)*. [:material-file-pdf-box: PDF](publications/2015-characterizing-the-influence-of-motion-parameters.pdf) · [DOI](https://doi.org/10.1007/978-3-319-22723-8_12) · [HAL](https://hal.science/hal-01207511)
 - <span class="pubtype">Conférence</span> M. Trellet, **N. Férey**, Marc Baaden, P. Bourdot. **Content and task based navigation for structural biology in 3D environments**. *Virtual and Augmented Reality for Molecular Science (VARMS@IEEEVR), 2015 IEEE 1st International Workshop on*. [:material-file-pdf-box: PDF](publications/2015-content-and-task-based-navigation-for-structural-b.pdf) · [DOI](https://doi.org/10.1109/VARMS.2015.7151726) · [HAL](https://hal.science/hal-01498020)
