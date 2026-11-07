@@ -105,10 +105,3 @@ Conseil académique de la COMUE Paris-Saclay (2017–2020) et de la CCSU informa
     l'expérience utilisateur en environnement immersif.
 
 </div>
-
-## Actualités
-
-- **2026** — Comité d'organisation de la Journée de l'Association Française de Réalité Étendue (JFXR 2026).
-- **2025** — *BioSpring: an elastic network framework for interactive exploration of macromolecular mechanics*, Protein Science.
-- **2025** — *An overview study on the use of Semantics in Immersive Environments*, Journal on Multimodal User Interfaces.
-- **2024** — *UnityMol-Lite*, collaboration multiplateforme en XR pour la modélisation moléculaire, EuroXR (Athènes).

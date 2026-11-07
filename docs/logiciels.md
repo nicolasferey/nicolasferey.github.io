@@ -31,9 +31,3 @@
     master HCI (2010–2011), toujours en usage.
 
 </div>
-
-## Développements en cours
-
-- **NewEVE** — description XML unifiée des systèmes immersifs (écrans, stéréoscopie,
-  environnement virtuel) et portages Unity, Unreal et Godot.
-- **Sculpture collaborative sur bois virtuel** — taille à plusieurs avec outils haptiques et sons.
