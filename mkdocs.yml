@@ -59,19 +59,25 @@ extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/mail.js
+  - javascripts/a11y.js
 
 extra:
   social:
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0002-7713-001X
+      name: ORCID
     - icon: material/file-document-multiple
       link: https://cv.hal.science/nicolas-ferey
+      name: HAL
     - icon: fontawesome/solid/graduation-cap
       link: https://scholar.google.com/citations?user=lXethhQAAAAJ
+      name: Google Scholar
     - icon: fontawesome/brands/github
       link: https://github.com/nicolasferey
+      name: GitHub
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/nicolas-ferey-67473118/
+      name: LinkedIn
 
 markdown_extensions:
   - attr_list
