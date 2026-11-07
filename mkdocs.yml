@@ -36,8 +36,9 @@ theme:
 
 nav:
   - Accueil: index.md
-  - Recherche: recherche.md
-  - Projets: projets.md
+  - Recherche:
+      - Axes et encadrement: recherche.md
+      - Projets: projets.md
   - Publications: publications.md
   - Enseignement: enseignement.md
 
