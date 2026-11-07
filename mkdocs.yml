@@ -27,6 +27,7 @@ theme:
         name: Passer en mode clair
   features:
     - navigation.tabs
+    - navigation.indexes
     - navigation.top
     - navigation.footer
     - content.tabs.link
@@ -38,8 +39,20 @@ nav:
   - Accueil: index.md
   - Recherche:
       - Publications: publications.md
-      - Projets: projets.md
-      - Logiciels: logiciels.md
+      - Projets:
+          - projets/index.md
+          - ANR PIRATE: projets/pirate.md
+          - BioTIN'INT: projets/biotinint.md
+          - UCB BioPharma: projets/ucb-biopharma.md
+          - FluidMeAT: projets/fluidmeat.md
+          - ANR ExaViz: projets/exaviz.md
+          - EquipEx Digiscope: projets/digiscope.md
+      - Logiciels:
+          - logiciels/index.md
+          - BioSpring: logiciels/biospring.md
+          - UnityMol: logiciels/unitymol.md
+          - Interface tangible: logiciels/interface-tangible.md
+          - Salle de TP RV: logiciels/salle-tp-rv.md
   - Enseignement: enseignement.md
 
 extra_css:
