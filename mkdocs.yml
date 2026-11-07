@@ -39,7 +39,7 @@ nav:
   - Recherche:
       - Axes et encadrement: recherche.md
       - Projets: projets.md
-  - Publications: publications.md
+      - Publications: publications.md
   - Enseignement: enseignement.md
 
 extra_css:
