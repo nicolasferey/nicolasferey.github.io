@@ -10,3 +10,10 @@
 .md-typeset .grid.cards.stats > ul > li { text-align: center; }
 .md-typeset .grid.cards.stats strong { display: block; font-size: 1.8rem; color: var(--md-primary-fg-color); }
 .pubtype { display: inline-block; min-width: 6.5em; font-size: .7rem; padding: 0 .4em; margin-right: .3em; border-radius: .2em; text-align: center; background: var(--md-accent-fg-color--transparent); color: var(--md-default-fg-color--light); }
+
+/* Image d'illustration des pages projet et logiciel */
+.md-typeset figure img {
+  max-height: 380px;
+  width: auto;
+  border-radius: 6px;
+}

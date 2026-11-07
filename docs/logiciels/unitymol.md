@@ -2,6 +2,11 @@
 
 **Domaine** : visualisation moléculaire 3D · **Collaboration** : LBT (Marc Baaden)
 
+<figure markdown>
+![UnityMol-Lite : manipulation de molécules en réalité étendue.](../images/unitymol.jpg)
+<figcaption>UnityMol-Lite : manipulation de molécules en réalité étendue.</figcaption>
+</figure>
+
 ## Résumé
 
 UnityMol est un environnement de visualisation et d'interaction 3D pour la biologie

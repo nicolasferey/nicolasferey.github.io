@@ -2,6 +2,11 @@
 
 **Domaine** : simulation moléculaire interactive · **Collaboration** : LBT (Marc Baaden, Benoist Laurent…)
 
+<figure markdown>
+![Localisation interactive de sites de liaison ionique sur une protéine.](../images/biospring.jpg)
+<figcaption>Localisation interactive de sites de liaison ionique sur une protéine.</figcaption>
+</figure>
+
 ## Résumé
 
 BioSpring représente une macromolécule comme un réseau de particules reliées par

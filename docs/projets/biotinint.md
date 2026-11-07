@@ -2,6 +2,11 @@
 
 **Rôle** : co-porteur · **Financement** : Institut Farman · **Période** : 2016 – 2020
 
+<figure markdown>
+![Électronique embarquée d'un module : capteurs et aimants détectant les connexions entre atomes.](../images/biotinint.jpg)
+<figcaption>Électronique embarquée d'un module : capteurs et aimants détectant les connexions entre atomes.</figcaption>
+</figure>
+
 ## Résumé
 
 BioTIN'INT a conçu une interface moléculaire tangible qui intègre des capteurs

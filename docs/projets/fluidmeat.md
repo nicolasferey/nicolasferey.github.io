@@ -2,6 +2,11 @@
 
 **Rôle** : porteur · **Financement** : Center for Data Science (IDEX Paris-Saclay) · **Période** : 2014 – 2015
 
+<figure markdown>
+![Champ de vitesses et lignes de courant d'une simulation de fluide.](../images/fluidmeat.jpg)
+<figcaption>Champ de vitesses et lignes de courant d'une simulation de fluide.</figcaption>
+</figure>
+
 ## Résumé
 
 FluidMeAT portait sur l'annotation de corpus de données de mécanique des fluides 2D

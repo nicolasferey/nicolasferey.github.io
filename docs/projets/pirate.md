@@ -2,6 +2,11 @@
 
 **Rôle** : partenaire · **Porteur** : Antoine Taly (LBT) · **Période** : depuis 2021
 
+<figure markdown>
+![Atomes modulaires imprimés en 3D, assemblables par aimants selon les géométries de liaison.](../images/pirate.jpg)
+<figcaption>Atomes modulaires imprimés en 3D, assemblables par aimants selon les géométries de liaison.</figcaption>
+</figure>
+
 ## Résumé
 
 PIRATE vise à concevoir et évaluer une plateforme qui combine réalité augmentée et

@@ -2,6 +2,11 @@
 
 **Domaine** : interaction tangible · **Projets** : [BioTIN'INT](../projets/biotinint.md), [ANR PIRATE](../projets/pirate.md)
 
+<figure markdown>
+![Reconstruction sans marqueur de la pose d'une maquette moléculaire imprimée en 3D (Martinez et al., 2017).](../images/interface-tangible.jpg)
+<figcaption>Reconstruction sans marqueur de la pose d'une maquette moléculaire imprimée en 3D (Martinez et al., 2017).</figcaption>
+</figure>
+
 ## Résumé
 
 L'objectif est de faire dialoguer une maquette moléculaire physique avec sa

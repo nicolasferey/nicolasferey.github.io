@@ -2,6 +2,11 @@
 
 **Rôle** : partenaire, responsable de lot · **Période** : 2011 – 2015
 
+<figure markdown>
+![Deux experts explorent en CAVE, à l'échelle 1, une simulation de dynamique moléculaire de grande taille.](../images/exaviz.jpg)
+<figcaption>Deux experts explorent en CAVE, à l'échelle 1, une simulation de dynamique moléculaire de grande taille.</figcaption>
+</figure>
+
 ## Résumé
 
 ExaViz traitait de la visualisation, de la simulation haute performance et de la
