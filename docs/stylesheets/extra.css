@@ -38,10 +38,19 @@
 }
 .md-typeset .icon-links a { text-decoration: none; }
 /* Contraste suffisant du pied de page */
-.md-copyright, .md-copyright a { color: #d0d0d0; }
+.md-copyright, .md-copyright a { color: #fff; }
 /* Focus clavier bien visible sur fond clair comme sur fond sombre (anneau noir et blanc) */
 :focus-visible {
   outline: 2px solid #000 !important;
   outline-offset: 2px;
   box-shadow: 0 0 0 4px #fff !important;
 }
+
+/* Pied de page : partie basse de la même photo que le bandeau, contenu conservé */
+.md-footer {
+  background-color: #0b1a0f;
+  background-image: linear-gradient(rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url("../images/bandeau.jpg");
+  background-size: cover;
+  background-position: center bottom;
+}
+.md-footer-meta { background-color: transparent; }
