@@ -1,0 +1,64 @@
+.hero { padding: 1.5rem 0 1rem; }
+.hero h1 { font-weight: 700; margin-bottom: .2rem; }
+.hero .subtitle { font-size: 1.1rem; opacity: .8; margin-top: 0; }
+.md-typeset .grid.cards > ul > li { border-radius: .6rem; }
+.todo { background: var(--md-accent-fg-color--transparent); padding: 0 .3em; border-radius: .2em; }
+.icon-links { display: flex; gap: 1rem; margin-top: .6rem; font-size: 1.4rem; }
+.icon-links a { color: var(--md-default-fg-color); }
+.icon-links a:hover { color: var(--md-accent-fg-color); }
+.md-typeset .grid.cards.stats > ul { grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); }
+.md-typeset .grid.cards.stats > ul > li { text-align: center; }
+.md-typeset .grid.cards.stats strong { display: block; font-size: 1.8rem; color: var(--md-typeset-a-color); }
+.pubtype { display: inline-block; min-width: 6.5em; font-size: .7rem; padding: 0 .4em; margin-right: .3em; border-radius: .2em; text-align: center; background: var(--md-accent-fg-color--transparent); color: var(--md-default-fg-color); }
+
+/* Image d'illustration des pages projet et logiciel */
+.md-typeset figure img {
+  max-height: 380px;
+  width: auto;
+  border-radius: 6px;
+}
+
+/* Bandeau : image du profil LinkedIn sous l'en-tête et les onglets, raccordée entre les deux */
+.md-header,
+.md-tabs {
+  background-color: #0b1a0f;
+  background-image: linear-gradient(rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url("../images/bandeau.jpg");
+  background-size: 100vw auto;
+  background-repeat: no-repeat;
+  /* Fond fixé sur la fenêtre : l'image continue d'un bandeau à l'autre quelles que soient leurs hauteurs */
+  background-attachment: fixed;
+  background-position: center calc(2.4rem - 12.4vw);
+}
+
+/* Accessibilité (WCAG 2.1 AA) */
+/* Liens repérables autrement que par la couleur dans le texte */
+.md-typeset p a, .md-typeset li a, .md-typeset td a, .md-typeset .admonition a, .md-copyright a {
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+.md-typeset .icon-links a { text-decoration: none; }
+/* Contraste suffisant du pied de page */
+.md-copyright, .md-copyright a { color: #fff; }
+/* Focus clavier bien visible sur fond clair comme sur fond sombre (anneau noir et blanc) */
+:focus-visible {
+  outline: 2px solid #000 !important;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px #fff !important;
+}
+
+/* Pied de page : partie basse de la même photo que le bandeau, contenu conservé */
+.md-footer {
+  background-color: #0b1a0f;
+  background-image: linear-gradient(rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url("../images/bandeau.jpg");
+  background-size: cover;
+  background-position: center bottom;
+}
+.md-footer-meta { background-color: transparent; }
+
+/* Icônes de contact dans l'en-tête, à gauche du bouton de mode sombre */
+.header-icons { display: flex; align-items: center; align-self: center; gap: .5rem; margin: 0 .4rem; }
+.header-icons a { color: #fff; display: flex; align-items: center; height: 1.2rem; filter: drop-shadow(0 0 2px #000); }
+.header-icons .twemoji { display: flex; align-items: center; height: 1.2rem; }
+.header-icons svg { width: .9rem; height: .9rem; fill: currentColor; }
+.header-icons a:hover { opacity: .8; }
+@media screen and (max-width: 30em) { .header-icons { display: none; } }
