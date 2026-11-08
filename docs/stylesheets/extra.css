@@ -54,3 +54,12 @@
   background-position: center bottom;
 }
 .md-footer-meta { background-color: transparent; }
+
+/* Icônes de contact dans l'en-tête, à côté du nom */
+.md-header__topic:first-child { display: flex; align-items: center; }
+.header-icons { display: inline-flex; gap: .5rem; margin-left: .9rem; }
+.header-icons a { color: #fff; display: inline-flex; filter: drop-shadow(0 0 2px #000); }
+.header-icons svg { width: .9rem; height: .9rem; fill: currentColor; }
+.header-icons a:hover { opacity: .8; }
+@media screen and (max-width: 30em) { .header-icons { display: none; } }
+.header-icons .twemoji { display: inline-flex; height: auto; }

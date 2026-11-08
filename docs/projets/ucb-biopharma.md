@@ -2,6 +2,11 @@
 
 **Rôle** : partenaire · **Type** : projet de R&D industriel · **Période** : 2017 – 2019
 
+<figure markdown>
+![UnityMol en réalité augmentée avec un casque et sur un mur d'écrans haute résolution.](../images/ucb-biopharma.jpg)
+<figcaption>UnityMol en réalité augmentée avec un casque et sur un mur d'écrans haute résolution.</figcaption>
+</figure>
+
 ## Résumé
 
 Projet mené avec le Laboratoire de Biochimie Théorique (Marc Baaden) et Xavier

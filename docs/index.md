@@ -10,15 +10,6 @@ hide:
 
 <p class="subtitle">Maître de conférences en informatique (CNU 27) · Université Paris-Saclay</p>
 
-<div class="icon-links" markdown>
-<a class="js-mail" href="#" data-u="yeref.salocin" data-d="rf.yalcas-sirap-etisrevinu" title="Courriel">:fontawesome-solid-envelope:</a>
-[:fontawesome-brands-orcid:](https://orcid.org/0000-0002-7713-001X "ORCID")
-[:material-file-document-multiple:](https://cv.hal.science/nicolas-ferey "HAL")
-[:fontawesome-solid-graduation-cap:](https://scholar.google.com/citations?user=lXethhQAAAAJ "Google Scholar")
-[:fontawesome-brands-github:](https://github.com/nicolasferey "GitHub")
-[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/nicolas-ferey-67473118/ "LinkedIn")
-</div>
-
 </div>
 
 ## Poste et rattachement
@@ -43,15 +34,6 @@ biophysique (*Protein Science*, *Nucleic Acids Research*, *Journal of Computatio
 Chemistry*, *Faraday Discussions*…) que dans des revues et conférences d'interaction
 et de réalité virtuelle (*Presence*, *Virtual Reality*, *Journal on Multimodal User
 Interfaces*, IEEE ISMAR, EuroVR, INTERACT, VRST).
-
-<div class="grid cards stats" markdown>
-
--   **18** articles de revues
--   **14** conférences internationales
--   **6** thèses co-encadrées
--   **6** projets de recherche (ANR, IDEX, industriel)
-
-</div>
 
 ## Parcours
 
