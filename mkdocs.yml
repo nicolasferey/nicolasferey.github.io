@@ -54,7 +54,6 @@ nav:
           - logiciels/index.md
           - BioSpring: logiciels/biospring.md
           - UnityMol: logiciels/unitymol.md
-          - Salle de TP RV: logiciels/salle-tp-rv.md
   - Enseignement: enseignement.md
 
 extra_css:
