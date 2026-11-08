@@ -49,6 +49,7 @@ nav:
           - UCB BioPharma: projets/ucb-biopharma.md
           - FluidMeAT: projets/fluidmeat.md
           - ANR ExaViz: projets/exaviz.md
+          - ANR CoRSAIRe: projets/corsaire.md
       - Logiciels:
           - logiciels/index.md
           - BioSpring: logiciels/biospring.md

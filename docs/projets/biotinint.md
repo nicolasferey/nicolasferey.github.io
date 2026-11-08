@@ -9,12 +9,19 @@
 
 ## Résumé
 
-BioTIN'INT a conçu une interface moléculaire tangible qui intègre des capteurs
-embarqués et du traitement d'image, dans une approche relevant de l'internet des
-objets. Chaque module de la maquette reproduit un degré de liberté de la chaîne
-moléculaire et transmet son orientation sans fil, ce qui permet de reconstruire en
-continu la conformation manipulée et de l'injecter dans un moteur de simulation
-interactive.
+BioTIN'INT a conçu une interface moléculaire tangible : une maquette physique qui
+dialogue avec sa contrepartie virtuelle, pour cumuler la prise en main d'un objet
+réel et la puissance de la simulation. Le projet, mené avec Bastien Vincke (SATIE),
+s'appuie sur deux approches complémentaires.
 
-Ce projet, mené avec Bastien Vincke (SATIE), a prolongé les travaux de suivi sans
-marqueur de maquettes physiques et préparé le projet [ANR PIRATE](pirate.md).
+- **Suivi sans marqueur** (thèse de Xavier Martinez) : la conformation d'une
+  maquette modulaire (Peppytide) est reconstruite à partir d'une simple vidéo RGB,
+  avec une estimation de son énergie.
+- **Maquette instrumentée** (internet des objets) : des atomes imprimés en 3D,
+  assemblés par aimants, embarquent chacun un capteur d'orientation sans fil. La
+  conformation est capturée en temps réel et transmise au moteur de simulation
+  interactive.
+
+Une étude utilisateur a montré un gain mesurable face à une interface graphique de
+bureau pour une tâche de modélisation moléculaire. Ces travaux se poursuivent dans
+le projet [ANR PIRATE](pirate.md).
