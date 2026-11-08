@@ -19,5 +19,4 @@ SATIE (Bastien Vincke) et le LISN. J'y ai encadré le post-doctorat de Mariano S
 (2023–2024), consacré au pilotage d'une simulation moléculaire en cours avec
 l'interface tangible, en vue du docking de ligands flexibles.
 
-**Voir aussi** : [Interface moléculaire tangible](../logiciels/interface-tangible.md),
-[UnityMol-Lite](../logiciels/unitymol.md).
+**Voir aussi** : [BioTIN'INT](biotinint.md), [UnityMol-Lite](../logiciels/unitymol.md).

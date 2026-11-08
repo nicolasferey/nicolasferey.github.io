@@ -3,8 +3,8 @@
 **Rôle** : co-porteur · **Financement** : Institut Farman · **Période** : 2016 – 2020
 
 <figure markdown>
-![Électronique embarquée d'un module : capteurs et aimants détectant les connexions entre atomes.](../images/biotinint.jpg)
-<figcaption>Électronique embarquée d'un module : capteurs et aimants détectant les connexions entre atomes.</figcaption>
+![Manipulation de la maquette instrumentée : la conformation de l'objet physique est reproduite en temps réel à l'écran (Vincke et al., 2019).](../images/biotinint.jpg)
+<figcaption>Manipulation de la maquette instrumentée : la conformation de l'objet physique est reproduite en temps réel à l'écran (Vincke et al., 2019).</figcaption>
 </figure>
 
 ## Résumé
@@ -18,5 +18,3 @@ interactive.
 
 Ce projet, mené avec Bastien Vincke (SATIE), a prolongé les travaux de suivi sans
 marqueur de maquettes physiques et préparé le projet [ANR PIRATE](pirate.md).
-
-**Voir aussi** : [Interface moléculaire tangible](../logiciels/interface-tangible.md).
