@@ -2,9 +2,6 @@
 
 Liste complète (59 références et 5 thèses co-encadrées), de la plus récente à la plus ancienne. Les PDF sont les versions déposées en accès ouvert (HAL ou dépôt de l'éditeur).
 
-!!! tip "Voir aussi"
-    [HAL](https://cv.hal.science/nicolas-ferey) · [Google Scholar](https://scholar.google.com/citations?user=lXethhQAAAAJ)
-
 
 ## 2026
 

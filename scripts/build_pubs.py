@@ -165,9 +165,7 @@ def fmt_authors(names):
 lines = ["# Publications", "",
          f"Liste complète ({len(pubs)} références et {len(THESES)} thèses co-encadrées), de la plus récente à la plus ancienne. "
          "Les PDF sont les versions déposées en accès ouvert (HAL ou dépôt de l'éditeur).", "",
-         "!!! tip \"Voir aussi\"",
-         "    [HAL](https://cv.hal.science/nicolas-ferey) · "
-         "[Google Scholar](https://scholar.google.com/citations?user=lXethhQAAAAJ)", ""]
+]
 year = None
 for p in pubs:
     if p["year"] != year:
