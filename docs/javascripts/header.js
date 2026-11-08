@@ -1,8 +1,8 @@
-// Icônes de contact dans l'en-tête, à côté du nom : courriel + liens du pied de page.
+// Icônes de contact dans l'en-tête, à gauche du bouton de mode sombre : courriel + liens du pied de page.
 document.addEventListener("DOMContentLoaded", function () {
-  var topic = document.querySelector(".md-header__title .md-header__topic");
+  var option = document.querySelector(".md-header__option");
   var social = document.querySelector(".md-footer .md-social");
-  if (!topic || !social) return;
+  if (!option || !social) return;
   var box = document.createElement("div");
   box.className = "header-icons";
   var mail = document.createElement("a");
@@ -19,6 +19,6 @@ document.addEventListener("DOMContentLoaded", function () {
     c.setAttribute("aria-label", a.title);
     box.appendChild(c);
   });
-  topic.appendChild(box);
+  option.parentNode.insertBefore(box, option);
   if (typeof revealMail === "function") revealMail();
 });

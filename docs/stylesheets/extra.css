@@ -55,11 +55,10 @@
 }
 .md-footer-meta { background-color: transparent; }
 
-/* Icônes de contact dans l'en-tête, à côté du nom */
-.md-header__topic:first-child { display: flex; align-items: center; }
-.header-icons { display: inline-flex; gap: .5rem; margin-left: .9rem; }
-.header-icons a { color: #fff; display: inline-flex; filter: drop-shadow(0 0 2px #000); }
+/* Icônes de contact dans l'en-tête, à gauche du bouton de mode sombre */
+.header-icons { display: flex; align-items: center; align-self: center; gap: .5rem; margin: 0 .4rem; }
+.header-icons a { color: #fff; display: flex; align-items: center; height: 1.2rem; filter: drop-shadow(0 0 2px #000); }
+.header-icons .twemoji { display: flex; align-items: center; height: 1.2rem; }
 .header-icons svg { width: .9rem; height: .9rem; fill: currentColor; }
 .header-icons a:hover { opacity: .8; }
 @media screen and (max-width: 30em) { .header-icons { display: none; } }
-.header-icons .twemoji { display: inline-flex; height: auto; }
