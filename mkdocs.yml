@@ -35,6 +35,9 @@ theme:
   icon:
     logo: material/cube-scan
 
+# Pas de recherche : le site est court
+plugins: []
+
 nav:
   - Accueil: index.md
   - Recherche:

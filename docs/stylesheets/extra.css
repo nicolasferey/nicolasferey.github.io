@@ -25,9 +25,10 @@
   background-image: linear-gradient(rgba(0, 0, 0, .55), rgba(0, 0, 0, .55)), url("../images/bandeau.jpg");
   background-size: 100vw auto;
   background-repeat: no-repeat;
+  /* Fond fixé sur la fenêtre : l'image continue d'un bandeau à l'autre quelles que soient leurs hauteurs */
+  background-attachment: fixed;
+  background-position: center calc(2.4rem - 12.4vw);
 }
-.md-header { background-position: center calc(2.4rem - 12.4vw); }
-.md-tabs { background-position: center -12.4vw; }
 
 /* Accessibilité (WCAG 2.1 AA) */
 /* Liens repérables autrement que par la couleur dans le texte */
