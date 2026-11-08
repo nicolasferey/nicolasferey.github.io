@@ -25,7 +25,6 @@ complète des supports et de l'organisation des projets, qui représentent déso
 - Référent handicap du département informatique de l'IUT d'Orsay (depuis 2021).
 - Responsable de 2e année du DUT/BUT (2018, puis 2022–2025).
 - Responsable APOGEE du département, 7 formations (2009–2016).
-- Vice-président du comité de sélection d'un poste de MCF en section 27 (2022).
 
 ## Projet pédagogique
 
