@@ -49,7 +49,7 @@ Interfaces*, IEEE ISMAR, EuroVR, INTERACT, VRST).
 -   **18** articles de revues
 -   **14** conférences internationales
 -   **6** thèses co-encadrées
--   **6** projets de recherche (ANR, IDEX, industriel)
+-   **5** projets de recherche (ANR, IDEX, industriel)
 
 </div>
 
